@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/E1Kd3pQwrsMtQbNkt0/giphy.gif?cid=6c09b95240ff86fff2b5de9f8d31f55e3900ecd04fcb5f99&rid=giphy.gif&ct=g" />
 
 ### Hi i'm Tobin Abraham
-- A Developer & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- Checkout my projects FindMeAHostel, Unid , MECMarketplace
